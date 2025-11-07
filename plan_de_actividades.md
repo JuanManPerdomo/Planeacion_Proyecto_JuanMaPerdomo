@@ -29,6 +29,17 @@ El proyecto **TesaliaVet – AgroVeterinaria Tesalia** busca digitalizar los pro
 
 ---
 
+## 🧩 Relación con los entregables del diseño del software
+
+| Fase del diseño | Actividades relacionadas | Entregables |
+|-----------------|--------------------------|--------------|
+| **Análisis** | Actividad 1 | Documento de requerimientos del sistema |
+| **Diseño** | Actividad 2 | Diagrama E-R, estructura de carpetas, prototipos |
+| **Desarrollo** | Actividades 3 y 4 | Módulos de productos, ventas y servicios |
+| **Pruebas e implementación** | Actividad 5 | Versión final del software y documentación |
+
+---
+
 ## 💬 Reflexión final
 
 ### ¿Qué dificultades encontraste al usar GitHub para planificar tu proyecto?
