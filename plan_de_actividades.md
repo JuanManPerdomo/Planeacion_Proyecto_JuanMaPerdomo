@@ -17,6 +17,18 @@ El proyecto **TesaliaVet – AgroVeterinaria Tesalia** busca digitalizar los pro
 
 ---
 
+## 📅 Cronograma general del proyecto
+
+| Semana / Fecha | Actividades programadas | Responsable |
+|----------------|--------------------------|--------------|
+| Semana 1 (08/11/2025) | Recolección de requerimientos y análisis del sistema | Juliana |
+| Semana 2 (09/11/2025) | Diseño de base de datos y estructura de módulos | Carlos |
+| Semana 3 (10/11/2025) | Desarrollo del módulo de productos e inventario | Eduardo |
+| Semana 4 (11/11/2025) | Desarrollo del módulo de ventas y servicios veterinarios | Juan Manuel |
+| Semana 5 (12/11/2025) | Pruebas finales, corrección de errores y documentación | Jesus |
+
+---
+
 ## 💬 Reflexión final
 
 ### ¿Qué dificultades encontraste al usar GitHub para planificar tu proyecto?
